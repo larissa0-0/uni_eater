@@ -1,0 +1,11 @@
+
+.box{
+    margin:5rpx 20rpx;
+}
+.isFixed{
+   position: fixed;
+   left: 0; 
+   top: 0; 
+   right: 0;
+}
+

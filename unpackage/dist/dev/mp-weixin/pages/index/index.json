@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "主页",
+  "usingComponents": {
+    "search": "/pages/index/components/search",
+    "preference": "/pages/index/components/preference",
+    "title": "/pages/index/components/title",
+    "select": "/pages/index/components/select",
+    "content": "/pages/index/components/content"
+  }
+}

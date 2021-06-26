@@ -1,0 +1,20 @@
+
+.tabs-view.data-v-d7961f74{
+margin: 15rpx;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+}
+.tabs-view text.data-v-d7961f74{
+margin-right: 60rpx;
+display: block;
+height: 60rpx;
+line-height: 60rpx;
+font-size: 33rpx;
+color: #666666;
+}
+.activetext.data-v-d7961f74{
+  color: #333333 !important;
+font-weight: bold !important;
+border-bottom: 5rpx solid #ffd161;}
+

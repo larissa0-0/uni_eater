@@ -1,0 +1,39 @@
+
+.prefer-select{
+   margin: 30rpx 0 !important
+}
+.prefer-text{
+   font-size: 30rpx;
+   font-weight: 400;
+   margin-bottom: 10rpx;
+}
+.prefer-cont{
+   display: -webkit-box;
+   display: -webkit-flex;
+   display: flex; 
+   -webkit-box-pack: justify; 
+   -webkit-justify-content: space-between; 
+           justify-content: space-between;
+}
+.scroll{
+   white-space: nowrap;
+   width: 100%;
+   height: 350rpx;
+}
+.prefer-view {
+   height: 300rpx; 
+   width: 300rpx;
+   padding: 0 10rpx;
+}
+.prefer-img{
+   width: 250rpx;
+   height: 250rpx;
+}
+.prefer-view text{
+   display: block;
+   height: 45rpx;
+   line-height: 45rpx;
+}
+.prefer-view text:nth-child(2){font-size: 30rpx;}
+.prefer-view text:nth-child(3){font-size: 27rpx; color: #9c9c9c;}
+

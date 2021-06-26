@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* 定位 */
+.search-view.data-v-8b3e5b4a{
+    font-size: 30rpx;
+    font-weight: bold;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    margin: 10rpx 0;
+}
+.search-view image.data-v-8b3e5b4a{
+    width: 35rpx;
+    height: 35rpx;
+}
+.search-text.data-v-8b3e5b4a{
+    padding: 0 10rpx;
+}
+  /* 搜索 */
+.search-cont.data-v-8b3e5b4a{
+   display: -webkit-box;
+   display: -webkit-flex;
+   display: flex;
+   -webkit-box-pack: justify;
+   -webkit-justify-content: space-between;
+           justify-content: space-between;
+   height: 70rpx;
+}
+.search.data-v-8b3e5b4a{
+   display: -webkit-box;
+   display: -webkit-flex;
+   display: flex;
+   height: 70rpx;
+   width: 100%;
+   line-height: 70rpx;
+   background: #fff3dc;
+   border-radius: 30px;
+}
+.search-img.data-v-8b3e5b4a{
+   width: 40rpx;
+   height: 40rpx;
+   margin: auto 10rpx auto 20rpx;
+}
+.search input.data-v-8b3e5b4a{
+   height: 70rpx;
+   width: 100%;
+   font-size: 27rpx;
+}
+  /* 轮播图 */
+.swiper-view.data-v-8b3e5b4a{
+   height: 320rpx;
+}
+.swiper-item.data-v-8b3e5b4a{
+   display: -webkit-box;
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-wrap: wrap;
+           flex-wrap: wrap;
+   -webkit-box-pack: justify;
+   -webkit-justify-content: space-between;
+           justify-content: space-between;
+   -webkit-box-align: center;
+   -webkit-align-items: center;
+           align-items: center;
+   height: 300rpx;
+}
+.item-cont.data-v-8b3e5b4a{
+  -webkit-box-flex:20%;
+  -webkit-flex:20%;
+          flex:20%;
+  text-align: center;
+}
+.item-cont text.data-v-8b3e5b4a{
+   padding-top: 20rpx; 
+   font-size: 27rpx;
+}
+.itemImg.data-v-8b3e5b4a{
+  width: 70rpx;
+  height: 70rpx;
+  margin:0 auto;
+  display: block;
+}
+  /* 指示点 */
+.instruct-view.data-v-8b3e5b4a{
+   width:100rpx;
+   height: 20rpx;
+   position: absolute;
+   bottm:0;
+   left: 50%;
+   -webkit-transform: translate(-50%,0);
+           transform: translate(-50%,0);
+   margin-top: 10rpx;
+}
+.instruct.data-v-8b3e5b4a{
+   float: left;
+   width: 30rpx;
+   height: 15rpx;
+   background:#fff3dc;
+   margin-left:10rpx;
+}
+.active.data-v-8b3e5b4a{
+   background:#ffc131;
+}
+

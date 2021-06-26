@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/order/order",
+    "pages/profile/profile",
+    "pages/search/search",
+    "pages/takeout/takeout",
+    "pages/placeorder/placeorder",
+    "pages/evaluate/evaluate"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "Eater",
+    "navigationBarBackgroundColor": "#ffa500",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/select-home.png"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "text": "订单",
+        "iconPath": "static/tabbar/order.png",
+        "selectedIconPath": "static/tabbar/select-order.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的",
+        "iconPath": "static/tabbar/profile.png",
+        "selectedIconPath": "static/tabbar/select-profile.png"
+      }
+    ]
+  },
+  "usingComponents": {
+    "home-load": "/element/loading"
+  }
+}

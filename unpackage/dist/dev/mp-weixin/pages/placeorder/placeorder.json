@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "支付",
+  "usingComponents": {
+    "h-mmessages": "/components/HM-messages/HM-messages"
+  }
+}
